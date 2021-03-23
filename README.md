@@ -9,7 +9,7 @@ and main files in the list below.
     * [Apartments price prediction model](https://github.com/pawellachowski777/Apartments/blob/master/python/project_summary.ipynb)
     * [911 calls data analyst](https://github.com/pawellachowski777/911_calls/blob/master/911_calls.ipynb)
 - Python with SQL:
-    * [Application for database operation](https://github.com/pawellachowski777/data_base/blob/master/scripts/app.py)
+    * [Application for database operation](https://github.com/pawellachowski777/data_base)
 - MS Excel with VBA:
     * [Tool for creating work schedule](https://github.com/pawellachowski777/Excel)
 - Power BI:
