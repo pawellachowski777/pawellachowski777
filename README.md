@@ -6,7 +6,7 @@ make it easier to find repositories you are interested in. Go ahead and find the
 and main files in the list below.
 
 - Python for data science:
-    * [Apartments price prediction model](https://github.com/pawellachowski777/Apartments/blob/master/python/project_summary.ipynb)
+    * [Apartments price prediction model](https://github.com/pawellachowski777/Apartments/blob/master/project_summary.ipynb)
     * [911 calls data analyst](https://github.com/pawellachowski777/911_calls/blob/master/911_calls.ipynb)
 - Python with SQL:
     * [Application for database operation](https://github.com/pawellachowski777/data_base)
