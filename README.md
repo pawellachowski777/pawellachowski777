@@ -8,6 +8,7 @@ and main files in the list below.
 - Python for data science:
     * [Apartments price prediction project](https://github.com/pawellachowski777/Apartments/blob/master/project_summary.ipynb)
     * [911 calls data analyst](https://github.com/pawellachowski777/911_calls/blob/master/911_calls.ipynb)
+    * [Language detection](https://github.com/pawellachowski777/language_detection)
 - Python with SQL:
     * [Application for database operation](https://github.com/pawellachowski777/data_base)
 - MS Excel with VBA:
