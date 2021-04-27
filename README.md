@@ -5,10 +5,12 @@ and you take your time to get to know me better. So I respect your time and I wa
 make it easier to find repositories you are interested in. Go ahead and find the technology 
 and main files in the list below.
 
+Quick note, if u get *Sorry, something went wrong. Reload?* communicate while loading Jupiter Notebook just try login and reload the page. Unfortunately, GitHub sometimes has a problem with .ipynb files.
+
 - Python for data science:
     * [Apartments price prediction project](https://github.com/pawellachowski777/Apartments/blob/master/project_summary.ipynb)
     * [911 calls data analyst](https://github.com/pawellachowski777/911_calls/blob/master/911_calls.ipynb)
-    * [Language detection](https://github.com/pawellachowski777/language_detection)
+    * [Language detection](https://github.com/pawellachowski777/language_detection/blob/master/language_detection.ipynb)
 - Python with SQL:
     * [Application for database operation](https://github.com/pawellachowski777/data_base)
 - MS Excel with VBA:
